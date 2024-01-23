@@ -5,7 +5,7 @@ setup(
     name="decompose",
     author="setanarut",
     version="0.1.0",
-    url="https://github.com/setanarut/decompose",
+    url="https://github.com/TaylorHawkes/decompose",
     packages=find_packages(),
     scripts=["scripts/decomp"],
     package_data={"decompose": ["model/*.pth"]},
