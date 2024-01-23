@@ -19,5 +19,5 @@ setup(
         "guided_filter_pytorch==3.7.5",
         "torch==2.1.0",
     ],
-    python_requires=">=3.11",
+    python_requires=">=3.10",
 )
